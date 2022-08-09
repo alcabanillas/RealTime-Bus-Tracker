@@ -14,3 +14,12 @@ body {
   left: 0;
   padding: 10px;
 }
+
+
+.marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
