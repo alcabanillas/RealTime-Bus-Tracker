@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="RealTime-Bus-Tracking" />
+  <img src="./.github/app.gif" alt="RealTime-Bus-Tracker" />
 
   &#xa0;
 
@@ -9,13 +9,13 @@
 <h1 align="center">REAL TIME BUS TRACKER</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/RealTime-Bus-Tracking?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/RealTime-Bus-Tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alcabanillas/RealTime-Bus-Tracking?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alcabanillas/RealTime-Bus-Tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alcabanillas/RealTime-Bus-Tracking?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alcabanillas/RealTime-Bus-Tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/alcabanillas/RealTime-Bus-Tracking?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/alcabanillas/RealTime-Bus-Tracker?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/alcabanillas/mit?color=56BEB8" /> -->
 
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alcabanillas/RealTime-Bus-Tracking
+$ git clone https://github.com/alcabanillas/RealTime-Bus-Tracker
 
 # Access
-$ cd RealTime-Bus-Tracking
+$ cd RealTime-Bus-Tracker
 ```
 
 
