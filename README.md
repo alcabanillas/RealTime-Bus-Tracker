@@ -80,7 +80,7 @@ $ git clone https://github.com/alcabanillas/RealTime-Bus-Tracking
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/alcabanillas" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/alcabanillas" target="_blank">Alvaro Cabanillas</a>
 
 &#xa0;
 
