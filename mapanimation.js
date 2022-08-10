@@ -51,8 +51,7 @@ function paintBuses(data) {
 
 function move(){
   // get bus data    
-  const locations = getBusLocations;
-  locations()
+  getBusLocations()
     .then( (data) => { paintBuses(data); } )
     .catch( (err) => { console.error('data error', err); })
   // timer
@@ -62,8 +61,8 @@ function move(){
 
 // Request bus data from MBTA
 async function getBusLocations(){
-  //var url = 'https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a&filter[route]=1&include=trip';	
-  var url = 'https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a';	
+  var url = 'https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a&filter[route]=1&include=trip';	
+  //var url = 'https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a';	
 	var response = await fetch(url);
 	var json     = await response.json();
 	return json.data;
