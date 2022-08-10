@@ -46,7 +46,7 @@ function paintBuses(data) {
   });
   var t = new Date();
   console.log(t);
-  document.getElementById('datainfo').innerHTML = 'Data info: ' +  t.getHours() + ':' + t.getMinutes() + ':' + t.getSeconds();
+  document.getElementById('datainfo').innerHTML = 'Data info: ' +  t.toLocaleTimeString();
 }
 
 function move(){
