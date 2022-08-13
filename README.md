@@ -59,11 +59,9 @@ The info is being obtained and added to the map when the user clicks on the butt
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://javascript.com/)
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/docs/Web/CSS)
 
 ## :white_check_mark: Requirements
 
