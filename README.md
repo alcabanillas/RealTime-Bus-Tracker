@@ -46,13 +46,14 @@
 
 ## :dart: About
 
-Describe your project
+Javascript project that shows bus information in realtime. The map is obtained using [leaflet](https://leafletjs.com/) and the real time data is fetched from [MBTA](https://www.mbta.com/)
+The info is being obtained and added to the map when the user clicks on the button and updated each 15 seconds.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Add layer with the time where the data was obtained\
+:heavy_check_mark: paint icon of a bus with random color\
+:heavy_check_mark: Split fetch and paint functions to allow futures refactors when needed;
 
 ## :rocket: Technologies
 
