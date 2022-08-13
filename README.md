@@ -53,7 +53,7 @@ The info is being obtained and added to the map when the user clicks on the butt
 
 :heavy_check_mark: Add layer with the time where the data was obtained\
 :heavy_check_mark: paint icon of a bus with random color\
-:heavy_check_mark: Split fetch and paint functions to allow futures refactors when needed
+:heavy_check_mark: Split fetch and paint functions to allow futures refactor if needed
 
 ## :rocket: Technologies
 
